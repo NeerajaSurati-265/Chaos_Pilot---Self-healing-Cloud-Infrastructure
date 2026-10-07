@@ -10,11 +10,11 @@ __pycache__/
 # AWS
 .aws/
 
-# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
 *.tfvars
+*.tfplan
 
 # IDE
 .vscode/
